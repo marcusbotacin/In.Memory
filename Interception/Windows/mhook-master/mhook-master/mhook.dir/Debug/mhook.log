@@ -1,0 +1,23 @@
+﻿Build started 18/04/2020 13:04:07.
+Project "C:\Users\user\Downloads\mhook-master\mhook-master\mhook.vcxproj" on node 2 (Build target(s)).
+CustomBuild:
+  Building Custom Rule C:/Users/user/Downloads/mhook-master/mhook-master/CMakeLists.txt
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D NO_SANITY_CHECKS /D UNICODE /D _UNICODE /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"mhook.dir\Debug\\" /Fd"mhook.dir\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\Users\user\Downloads\mhook-master\mhook-master\disasm-lib\cpu.c" "C:\Users\user\Downloads\mhook-master\mhook-master\disasm-lib\disasm.c" "C:\Users\user\Downloads\mhook-master\mhook-master\disasm-lib\disasm_x86.c"
+  cpu.c
+  disasm.c
+  disasm_x86.c
+  Generating Code...
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D NO_SANITY_CHECKS /D UNICODE /D _UNICODE /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"mhook.dir\Debug\\" /Fd"mhook.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\user\Downloads\mhook-master\mhook-master\mhook-lib\mhook.cpp"
+  mhook.cpp
+Lib:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\user\Downloads\mhook-master\mhook-master\Debug\mhook.lib" /NOLOGO  /machine:X86 mhook.dir\Debug\cpu.obj
+  mhook.dir\Debug\disasm.obj
+  mhook.dir\Debug\disasm_x86.obj
+  mhook.dir\Debug\mhook.obj
+  mhook.vcxproj -> C:\Users\user\Downloads\mhook-master\mhook-master\Debug\mhook.lib
+Done Building Project "C:\Users\user\Downloads\mhook-master\mhook-master\mhook.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.45

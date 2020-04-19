@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Downloads\mhook-master\mhook-master\CMakeFiles\34122f84bb18628710e6adf99bdddb43\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3DB7DDEA-0DB4-3077-9B69-6660F6208A95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
